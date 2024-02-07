@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-After a fulfilling three-year journey, I transitioned into coding, starting with backend technologies. Python was my inaugural programming language, and Django became my trusted backend framework. Along the way, I discovered the allure of JavaScript and Vue.js, leading me to embrace a full-stack role. Currently, I'm actively working with Vue.js and Django. I'm looking forward to learning Nuxt.js, diving into the world of C language, and exploring deep algorithm concepts.
+I've been coding for three years, refining my skills in various technologies and frameworks, starting with backend. Python was my first programming language, and Django became my trusted backend framework. Along the way, I discovered the allure of JavaScript and Vue.js, leading me to embrace a full-stack role. Currently, I'm actively working with Vue.js and Django. I'm looking forward to learning Nuxt.js, diving into the world of C language, and exploring deep algorithm concepts.
 
 💻 I specialize in Vue.js and Django. Currently, I'm expanding my skills by diving into the world of C language and crafting utility programs in Python.\
 🌐 Explore my portfolio: [GitHub](https://github.com/Monshou1251)\
