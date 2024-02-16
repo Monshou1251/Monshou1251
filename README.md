@@ -17,7 +17,7 @@ I've been coding for three years, refining my skills in various technologies and
 
 🚀 Explore my portfolio:
 - Fullstack (Django+Vue): 🌐💻 [[AMS_portal]](https://github.com/Monshou1251/AMS_portal)
-- Django: 🐍 [[api_yamdb]](https://github.com/Monshou1251/api_yamdb)]
+- Django: 🐍 [[api_yamdb]](https://github.com/Monshou1251/api_yamdb)
 - Vue 3: 🎉3️⃣ [[WeatherWidget]](https://github.com/Monshou1251/WeatherWidget)
 - Vue 2: 🎉2️⃣ [[cntrHack]](https://github.com/Monshou1251/cntrHack)
 - Cybersecurity: 🔐 [[Vue-challenge]](https://github.com/Monshou1251/Vue-challenge)
