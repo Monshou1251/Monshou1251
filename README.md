@@ -9,14 +9,19 @@ Full Stack Developer
 I've been coding for three years, refining my skills in various technologies and frameworks, starting with backend. Python was my first programming language, and Django became my trusted backend framework. Along the way, I discovered the allure of JavaScript and Vue.js, leading me to embrace a full-stack role. Currently, I'm actively working with Vue.js and Django. I'm looking forward to learning Nuxt.js, diving into the world of C language, and exploring deep algorithm concepts.
 
 💻 I specialize in Vue.js and Django. Currently, I'm expanding my skills by diving into the world of C language and crafting utility programs in Python.\
-🌐 Explore my portfolio: [GitHub](https://github.com/Monshou1251)\
 📧 Reach out to me at: grigory.urchenko@gmail.com\
 🧠 My sights are set on expanding my skills with Nuxt.js\
 🎨 Learning some C with Harvard CS50 just for fan\
 🌟 Planning to touch some Node.js in the nearest future\
 ⚡ Fun fact: I'm a Spider-Man enthusiast both in coding and crime-fighting!
 
-Let's build something amazing together! 🚀
+🚀 Explore my portfolio:
+- Fullstack (Django+Vue): 🌐💻 [[link]](https://github.com/Monshou1251/AMS_portal)
+- Django: 🐍 [[[link]](https://github.com/Monshou1251/api_yamdb)]
+- Vue 3: 🎉3️⃣ [[link]](https://github.com/Monshou1251/WeatherWidget)
+- Vue 2: 🎉2️⃣ [[link]](https://github.com/Monshou1251/cntrHack)
+- Cybersecurity: 🔐 [[link]](https://github.com/Monshou1251/Vue-challenge)
+- Telegram Bots: 🤖📱 [[link]](https://github.com/Monshou1251/homework_bot)
 
 ### Skills
 
