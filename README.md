@@ -10,7 +10,7 @@ I'm a fullstack web developer with experience in building internal tools, accoun
 
 In my work, I focus on clean architecture, automation, and scalability. I’ve developed systems with asynchronous processing, custom Airflow plugins, LDAP-based access control, and secure CTF challenges.
 
-**Main tech stack:** Vue 3, Django, SQLAlchemy, Celery, RabbitMQ, Exasol, Airflow, Docker, Kubernetes.
+**Main tech stack:** Python, JS, Vue 3, Django, SQLAlchemy, Celery, RabbitMQ, Exasol, Airflow, Docker, Kubernetes.
 
 Always learning, always building.
 
