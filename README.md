@@ -5,7 +5,15 @@ Gregory Yurchenko
 
 Full Stack Developer
 --------------------
-Hello, you can use my code, but be careful, sometimes it could be smelly.
+## 🧠 About Me
+
+I'm a fullstack web developer with experience in building internal tools, accounting systems, BI integrations, and cybersecurity training platforms.
+
+In my work, I focus on clean architecture, automation, and scalability. I’ve developed systems with asynchronous processing, custom Airflow plugins, LDAP-based access control, and secure CTF challenges.
+
+**Main tech stack:** Vue 3, Django, SQLAlchemy, Celery, RabbitMQ, Exasol, Airflow, Docker, Kubernetes.
+
+Always learning, always building.
 
 ### Skills
 
