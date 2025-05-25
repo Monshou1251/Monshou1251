@@ -15,7 +15,7 @@ In my work, I focus on clean architecture, automation, and scalability. I’ve d
 Always learning, always building.
 
 ## 🚀 Current project in dev:
-- 🔸 [Personal Productivity Tracker FocusTrack](https://github.com/Monshou1251/FocusTrack) – FocusTrack is a personal productivity app.
+- 🔸 [FocusTrack](https://github.com/Monshou1251/FocusTrack) – Personal productivity tracker app.
 
 ## 📂 Featured Projects
 
