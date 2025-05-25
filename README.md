@@ -6,7 +6,7 @@ Full Stack Developer
 --------------------
 ## 🧠 About Me
 
-I'm a fullstack web developer with experience in building internal tools, accounting systems, BI integrations, and cybersecurity training platforms.
+I'm a fullstack developer with experience in building internal tools, accounting systems, BI integrations, and cybersecurity training platforms.
 
 In my work, I focus on clean architecture, automation, and scalability. I’ve developed systems with asynchronous processing, custom Airflow plugins, LDAP-based access control, and secure CTF challenges.
 
@@ -14,6 +14,8 @@ In my work, I focus on clean architecture, automation, and scalability. I’ve d
 
 Always learning, always building.
 
+## 🚀 Current project in dev:
+- 🔸 [Personal Productivity Tracker FocusTrack](https://github.com/Monshou1251/FocusTrack) – FocusTrack is a personal productivity app.
 
 ## 📂 Featured Projects
 
