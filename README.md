@@ -14,15 +14,14 @@ In my work, I focus on clean architecture, automation, and scalability. I’ve d
 
 Always learning, always building.
 
-## 🚀 Current project in dev:
-- 🔸 [FocusTrack](https://github.com/Monshou1251/FocusTrack) – Personal productivity tracker app.
-
 ## 📂 Featured Projects
 
 - 🔸 [Theological Portal Bogoslov](https://github.com/Monshou1251/Bogoslov) – Scientific, theological portal Bogoslov.
 - 🔸 [Airflow Plugins](https://github.com/Monshou1251/airflow_plugin) – Custom operators, sensors, and UI extensions for Apache Airflow.
 - 🔸 [CTF Challenges](https://github.com/Monshou1251/django_vue_challenge) – Vulnerable apps for cybersecurity training (OWASP Top 10, Dockerized).
 
+## 🚀 Current project in dev:
+- 🔸 [FocusTrack](https://github.com/Monshou1251/FocusTrack) – Personal productivity tracker app.
 
 ### Skills
 
